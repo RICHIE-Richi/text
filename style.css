@@ -1,0 +1,86 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    margin: 30px;
+}
+
+.container{
+    background-color: black;
+    color: white;
+    padding: 30px;
+    line-height: 35px;
+}
+
+.container button{
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    background-color: orangered;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+.container1{
+    margin-top: 10px;
+}
+
+.main_container{
+    display: flex;
+    margin-top: 15px;
+    gap: 10px;
+}
+
+.Sub_container1{
+    padding: 15px;
+    background-color: cornflowerblue;
+    border-radius: 10px;
+}
+
+.Sub_container1 h2{
+    color: white;
+    margin-bottom: 10px;
+}
+
+.Sub_container2{
+    padding: 15px;
+    background-color: brown;
+    border-radius: 10px;
+}
+
+.Sub_container2 h2{
+    color: white;
+    margin-bottom: 10px;
+}
+
+.end-part{
+    background-color: black;
+    color: white;
+    line-height: 35px;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+/*styling the contact*/
+
+.conctact_heading{
+    color: white;
+}
+
+.contact_form{
+    position: absolute;
+    left: 40%;
+    color: white;
+    line-height: 35px;
+}
+
+.contact_form button{
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    background-color: orangered;
+    font-weight: bolder;
+    cursor: pointer;
+}
